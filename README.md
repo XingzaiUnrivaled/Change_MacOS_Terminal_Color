@@ -26,3 +26,5 @@ linux默认配色方案是"exfxcxdxbxegedabagacad"
 每两个字母为一组，前面为字体颜色，后面为背景颜色
 
 我给定的方案是 "ExGxFxdaCxDaDahbadacec"
+
+运行完上述代码之后，直接重启一下终端就行了，更改的shell指令分别是bash和zsh，其他的我并没有编写更改
