@@ -18,7 +18,7 @@ linux默认配色方案是"exfxcxdxbxegedabagacad"
 - executable
 - blockspecial
 - characterspecial
-- executable with setuid bitset可
+- executable with setuid bitset
 - executable with setgid bitset
 - directory writabletoothers,with sticky bit
 - directory writabletoothers,without sticky bit
